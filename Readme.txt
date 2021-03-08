@@ -1,6 +1,5 @@
 nom taka gra, bo mi się nudzi na elekcjach. 
-
-Gra nie działa? to kurde rozpakuj folder
+Ogólnie to trzeba przenieść folder z domyślnego katalogu pobranych plik0,ów i wypakować i powinno działać
 
 
 gdzieś tam powinnien w głównym folderze powinna być gra.
