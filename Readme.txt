@@ -1,3 +1,7 @@
+Jak jesteś na githubie to gdzies po prawej powinnien być taki przycisk Code, pobierz zipa i rozpakuj potem czy cuś
+
+
+
 nom taka gra, bo mi się nudzi na elekcjach. 
 
 Gra nie działa? to kurde rozpakuj folder
