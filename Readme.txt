@@ -1,4 +1,4 @@
-Jak jesteś na githubie to gdzies po prawej powinnien być taki przycisk Code, pobierz zipa i rozpakuj potem czy cuś
+Jak jesteś na githubie to gdzies po prawej powinnien być taki zielony przycisk Code, pobierz zipa i rozpakuj potem czy cuś
 
 
 
